@@ -1,0 +1,117 @@
+Recette;Etape;Ingrédient;Unité de l'ingrédient;Qté Base Initiale;Unités Produites;Cout Unitaire Ingrédient;Fournisseur
+Bay srob;Element de base;Filet mignon de porc;KG;0.1;2;8.8;Transgourmet
+Bay srob;Element de base;Œuf;Pièce;2;2;0.333222222222222;Transgourmet
+Bay srob;Element de base;Riz;KG;0.2;2;1.5;Château Express
+Bay srob;Appareil de sauce;Filet mignon de porc;KG;0.05;2;8.8;Transgourmet
+Bay srob;Appareil de sauce;Ciboulette;KG;0.01;2;9.2;Transgourmet
+Bay srob;Appareil de sauce;Huile de Tournesol;Litre;0.08;2;1.99;Transgourmet
+Bay srob;Appareil de sauce;Ail;KG;0.03;2;8.95;Transgourmet
+Bay srob;Appareil de sauce;Sucre;KG;0.03;2;1.75;Transgourmet
+Bay srob;Appareil de sauce;Sauce de poisson;Litre;0.03;2;3.33111111111111;Château Express
+Bay srob;Appareil de sauce;Sauce d'huître;Litre;0.03;2;4.22;Château Express
+Bay srob;Appareil de sauce;Sel;KG;0.01;2;1;Transgourmet
+Bay srob;Appareil de sauce;Sauce soja;Litre;0.03;2;4.65;Pas encore trouvé
+Bay srob;Appareil de sauce;Poivre;KG;0.01;2;18;Cambodge
+Bay srob;Appareil de Paste;Sucre;KG;0.05;2;1.75;Transgourmet
+Bay srob;Appareil de Paste;Sauce de poisson;Litre;0.05;2;3.33111111111111;Château Express
+Bay srob;Appareil de Paste;Sauce d'huître;Litre;0.05;2;4.22;Château Express
+Bay srob;Appareil de Paste;Sel;KG;0.01;2;1;Transgourmet
+Bay srob;Appareil de Paste;Sauce soja;Litre;0.05;2;4.65;Pas encore trouvé
+Bay srob;Appareil de Paste;Poivre;KG;0.03;2;18;Cambodge
+Bay srob;Appareil de Paste;Gingembre;KG;0.03;2;12.68;Transgourmet
+Bay srob;Appareil de Paste;Ail;KG;0.02;2;8.95;Transgourmet
+Bay srob;Appareil de Paste;Echalote;KG;0.02;2;2.51;Transgourmet
+Bay srob;Appareil de Paste;Lait;Litre;0.1;2;0.00095;Transgourmet
+Bay srob;Appareil de Paste;Feuille de kaffir (15);Pièce;3;2;0.0466666666666667;Château Express
+Sandwich Khmer;Element de base;Pain;Pièce;2.5;2;1.4;Boulangerie
+Sandwich Khmer;Element de base;Poitrine de porc;KG;0.3;2;10.98;Transgourmet
+Sandwich Khmer;Element de base;Foie de poulet;KG;0.1;2;2.88;Transgourmet
+Sandwich Khmer;Appareil de paste;Foie de poulet;KG;0.07;2;2.88;Transgourmet
+Sandwich Khmer;Appareil de paste;Poitrine de porc;KG;0.07;2;10.98;Transgourmet
+Sandwich Khmer;Appareil de paste;Sel;KG;0.01;2;1;Transgourmet
+Sandwich Khmer;Appareil de paste;Sucre;KG;0.03;2;1.75;Transgourmet
+Sandwich Khmer;Appareil de paste;Lait;Litre;0.05;2;0.00095;Transgourmet
+Sandwich Khmer;Appareil de paste;Pain;Pièce;0.03;2;1.4;Boulangerie
+Sandwich Khmer;Appareil de paste;Sauce soja;Litre;0.02;2;4.65;Pas encore trouvé
+Sandwich Khmer;Appareil de paste;Sauce de poisson;Litre;0.02;2;3.33111111111111;Château Express
+Sandwich Khmer;Appareil de paste;Poivre;KG;0.01;2;18;Cambodge
+Sandwich Khmer;Appareil de paste;Sauce d'huître;Litre;0.02;2;4.22;Château Express
+Sandwich Khmer;Appareil de paste;Beurre;KG;0.02;2;13.18;Pas encore trouvé
+Sandwich Khmer;Appareil de Porc mariné;Sauce de poisson;Litre;0.05;2;3.33111111111111;Château Express
+Sandwich Khmer;Appareil de Porc mariné;Cannelle;KG;0.01;2;50;Pas encore trouvé
+Sandwich Khmer;Appareil de Porc mariné;Anis;KG;0.01;2;30.52;Pas encore trouvé
+Sandwich Khmer;Appareil de Porc mariné;Poivre;KG;0.03;2;18;Cambodge
+Sandwich Khmer;Appareil de Porc mariné;Huile de Tournesol;Litre;0.02;2;1.99;Transgourmet
+Sandwich Khmer;Appareil de Porc mariné;Sauce d'huître;Litre;0.05;2;4.22;Château Express
+Sandwich Khmer;Appareil de Porc mariné;Sauce soja;Litre;0.03;2;4.65;Pas encore trouvé
+Sandwich Khmer;Appareil de Porc mariné;Sel;KG;0.01;2;1;Transgourmet
+Sandwich Khmer;Appareil de Porc mariné;Sucre;KG;0.05;2;1.75;Transgourmet
+Sandwich Khmer;Appareil de Porc mariné;Ail;KG;0.02;2;8.95;Transgourmet
+Sandwich Khmer;Appareil de Porc mariné;Echalote;KG;0.02;2;2.51;Transgourmet
+Nems;Nems;Filet mignon de porc;KG;0.5;40;8.8;Transgourmet
+Nems;Nems;Chou blanc;KG;0.4;40;2.69;Transgourmet
+Nems;Nems;Carotte;KG;0.4;40;1.59;Transgourmet
+Nems;Nems;Vermicelles de riz;KG;0.2;40;6.625;Transgourmet
+Nems;Nems;Œuf;Pièce;2;40;0.333222222222222;Transgourmet
+Nems;Nems;Champignon noir séché;KG;0.1;40;17.98;Château Express
+Nems;Nems;Feuille de nem;Pièce;1;40;2.8;Château Express
+Nems;Nems;Sauce d'huître;Litre;0.03;40;4.22;Château Express
+Nems;Nems;Sel;KG;0.02;40;1;Transgourmet
+Nems;Nems;Sucre;KG;0.03;40;1.75;Transgourmet
+Nems;Nems;Poivre;KG;0.01;40;18;Cambodge
+Nems;Nems;Sauce de poisson;Litre;0.05;40;3.33111111111111;Château Express
+Nems;Nems;Sauce soja;Litre;0.3;40;4.65;Pas encore trouvé
+Nems;Nems;Ail;KG;0.02;40;8.95;Transgourmet
+Nems;Nems;Echalote;KG;0.02;40;2.51;Transgourmet
+Nems;Nems;Huile de Tournesol;Litre;0.01;40;1.99;Transgourmet
+Nems;Sauce nems;Sucre;KG;0.2;40;1.75;Transgourmet
+Nems;Sauce nems;Sel;KG;0.03;40;1;Transgourmet
+Nems;Sauce nems;Sauce soja;L;0.2;40;4.65;Pas encore trouvé
+Nems;Sauce nems;Vinaigre;L;0.2;40;4.5;Transgourmet
+Nems;Sauce nems;Echalote;KG;0.03;40;2.51;Transgourmet
+Nems;Sauce nems;Ail;KG;0.03;40;8.95;Transgourmet
+Nems;Sauce nems;CACAHUETE GRILLEE ET SALEE;KG;0.2;40;5.66666666666667;Transgourmet
+Nems;Sauce nems;Carotte;KG;0.08;40;1.59;Transgourmet
+Tofu mariné ;Element de base;Tofu;KG;0.3;2;0.1075;Château Express
+Tofu mariné ;Appareil de sauce;Ciboulette;KG;0.005;2;9.2;Transgourmet
+Tofu mariné ;Appareil de sauce;Sel;KG;0.01;2;1;Transgourmet
+Tofu mariné ;Appareil de sauce;Sucre;KG;0.02;2;1.75;Transgourmet
+Tofu mariné ;Appareil de sauce;Poivre;KG;0.01;2;18;Cambodge
+Tofu mariné ;Appareil de sauce;Sauce d'huître;Litre;0.03;2;4.22;Château Express
+Tofu mariné ;Appareil de sauce;Sauce de poisson;Litre;0.01;2;3.33111111111111;Château Express
+Tofu mariné ;Appareil de sauce;Sauce soja;Litre;0.01;2;4.65;Pas encore trouvé
+Tofu mariné ;Appareil de sauce;Sauce piment;Litre;0.01;2;3.99777777777778;Château Express
+Tofu mariné ;Appareil de sauce;Ketchup;KG;0.01;2;6.49122807017544;Transgourmet
+Tofu mariné ;Appareil de sauce;Ail;KG;0.02;2;8.95;Transgourmet
+Tofu mariné ;Appareil de sauce;Echalote;KG;0.02;2;2.51;Transgourmet
+Tofu mariné ;Appareil de sauce;Huile de Tournesol;Litre;0.1;2;1.99;Transgourmet
+Brochettes;Element de base;Bœuf;KG;1;50;11.25;Transgourmet
+Brochettes;Element de base;Piques en bois (2000);Paquet;50;50;0.04745;Pas encore trouvé
+Brochettes;Appareil de paste;Sauce d'huître;Litre;0.05;50;4.22;Château Express
+Brochettes;Appareil de paste;Sel;KG;0.01;50;1;Transgourmet
+Brochettes;Appareil de paste;Sucre;KG;0.03;50;1.75;Transgourmet
+Brochettes;Appareil de paste;Citronnelle;KG;0.1;50;32.7;Transgourmet
+Brochettes;Appareil de paste;Curcuma;KG;0.01;50;9.55;Pas encore trouvé
+Brochettes;Appareil de paste;Feuille de kaffir (15);Pièce;5;50;0.0466666666666667;Château Express
+Brochettes;Appareil de paste;Galanga;KG;0.02;50;25;Château Express
+Brochettes;Appareil de paste;Sauce de poisson;Litre;0.05;50;3.33111111111111;Château Express
+Brochettes;Appareil de paste;Fingerroot;KG;0.02;50;29.2;Pas encore trouvé
+Brochettes;Appareil de paste;Ail;KG;0.02;50;8.95;Transgourmet
+Brochettes;Appareil de paste;Echalote;KG;0.02;50;2.51;Transgourmet
+Brochettes;Appareil de paste;Huile de Tournesol;Litre;0.02;50;1.99;Transgourmet
+Brochettes;Appareil de paste;Lait de coco;Litre;0.1;50;4.15;Transgourmet
+Salade Cambodge;Element de base;Filet mignon de porc;KG;0.06;2;8.8;Transgourmet
+Salade Cambodge;Element de base;Chou blanc;KG;0.07;2;2.69;Transgourmet
+Salade Cambodge;Element de base;Chou rouge;KG;0.07;2;3.5;Transgourmet
+Salade Cambodge;Element de base;Carotte;KG;0.06;2;1.59;Transgourmet
+Salade Cambodge;Element de base;Poivron jaune;KG;0.05;2;4.2;Transgourmet
+Salade Cambodge;Element de base;Poivron vert;KG;0.05;2;4.2;Transgourmet
+Salade Cambodge;Element de base;Poivron rouge;KG;0.05;2;2.42307692307692;Transgourmet
+Salade Cambodge;Element de base;Menthe;KG;0.03;2;7.95;Transgourmet
+Salade Cambodge;Element de base;Vermicelles de riz;KG;0.1;2;6.625;Transgourmet
+Salade Cambodge;Appareil de sauce;Vinaigre;Litre;0.05;2;4.5;Transgourmet
+Salade Cambodge;Appareil de sauce;CACAHUETE GRILLEE ET SALEE;KG;0.02;2;5.66666666666667;Transgourmet
+Salade Cambodge;Appareil de sauce;Ail;KG;0.02;2;8.95;Transgourmet
+Salade Cambodge;Appareil de sauce;Sel;KG;0.01;2;1;Transgourmet
+Salade Cambodge;Appareil de sauce;Sucre;KG;0.05;2;1.75;Transgourmet
+Salade Cambodge;Appareil de sauce;Sauce de poisson;Litre;0.05;2;3.33111111111111;Château Express
